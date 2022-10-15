@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">purodhika_sharma_comp304sec002_lab1</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="login_page">Login Page</string>
+    <string name="enter_user_name">Enter user name</string>
+    <string name="check_lifecycle_callbacks">CHECK LIFECYCLE CALLBACKS</string>
+    <string name="sign_in">SIGN IN</string>
+</resources>
